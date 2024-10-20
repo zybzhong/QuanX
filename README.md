@@ -1,7 +1,6 @@
-# Profiles2wmsxwdsh
+# Quanx
 <br>
 
-搜集多方大神的 Quantumult X / Surge 懒人配置，先学习模仿，后融会贯通，最终为我所用。
 
 <br/>
 Quantumult X 不完全教程：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
